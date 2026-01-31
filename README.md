@@ -9,8 +9,14 @@ En el proyecto realizado se resolvio un problema comun que se tiene en muchas em
 4-movimiento de archivos procesados a carpeta 'processed'
 
 ## Video del funcionamiento 
-https://youtu.be/396isNS27aE  
+https://youtu.be/396isNS27aE
 
+
+## ¿Que se busca con este proyecto?
+-Reduccion de tiempo automatizando las cargas de .csv automaticamente a sql
+-Reduccion de espacio al poder decidir si mantener los archivos .csv o la informacion dnetro de sql 
+-Ingest de datos constante 
+-Mejor visualizacion de dashboard debido a la constante ingesta que nos permite tomar decisiones de manera mas rapida
 
 
 
