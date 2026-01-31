@@ -7,6 +7,7 @@ En el proyecto realizado se resolvio un problema comun que se tiene en muchas em
 2-Lectura de archivos desde al carpeta 'raw'
 3-Insercion de datos en SQL Server usando pyodbc
 4-movimiento de archivos procesados a carpeta 'processed'
+<img width="1492" height="656" alt="image" src="https://github.com/user-attachments/assets/e10ca8a1-1691-48b3-b071-4bef1d5093f7" />
 
 
 
